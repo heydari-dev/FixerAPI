@@ -8,4 +8,5 @@ setup(name='fixer',
       author_email='ali@exampel.com',
       license='MIT',
       packages=['fixer'],
+      install_requiers=['requests'],
       zip_safe=False)
