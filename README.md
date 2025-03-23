@@ -9,14 +9,14 @@
 You can install the package using:  
 
 ```bash
-pip install git+https://github.com/heydari-dev/RequestDataFromFixer.git
+pip install git+https://github.com/heydari-dev/FixerAPI.git
 ```
 
 Or install it from source:  
 
 ```bash
-git clone https://github.com/heydari-dev/RequestDataFromFixer.git  
-cd RequestDataFromFixer  
+git clone https://github.com/heydari-dev/FixerAPI.git  
+cd FixerAPI  
 pip install .
 ```
 
