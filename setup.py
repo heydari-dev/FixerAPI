@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='fixer',
-      version='0.1',
+      version='0.2',
       description='Fixer service package',
       url='https://github.com/heydari-dev/RequestDataFromFixer.git',
       author='Ali',
